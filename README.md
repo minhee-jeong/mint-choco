@@ -1,3 +1,1 @@
-# mint-choco
-nomadcoder python webscrapper
-https://github.com/minhee-jeong/mint-choco.git
+simple challenge : make calc with python 
